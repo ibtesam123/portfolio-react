@@ -57,7 +57,7 @@ const DataMap = {
         },
         others: {
             icon: require('./images/others.svg'),
-            list: ['Git', 'UX/UI Design', 'Adobe XD','Figma']
+            list: ['Git', 'UX/UI Design', 'Adobe XD', 'Figma']
         },
     },
     project: {
@@ -106,6 +106,13 @@ const DataMap = {
         ]
     },
     post: [
+        {
+            title: 'Making Production-Ready apps in Flutter',
+            date: 'August 24, 2020',
+            description: 'A guide to building scalable and maintainable apps in Flutter. Best practices and tools which help you grow your applications quickly.',
+            image: require('./images/production_ready.jpeg'),
+            link: 'https://itnext.io/making-production-ready-apps-in-flutter-e0abd1c23c83'
+        },
         {
             title: 'Realtime Chat App - One-to-One using Flutter, Socket.io & Node.js ',
             date: 'May 11, 2020',
