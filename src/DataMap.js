@@ -43,7 +43,7 @@ const DataMap = {
         stackoverflow: 'https://stackoverflow.com/users/9681181/ibtesam-ansari',
     },
     about: {
-        resume: 'https://firebasestorage.googleapis.com/v0/b/personal-b6d5b.appspot.com/o/Portfolio%2FIbtesamResume.pdf?alt=media&token=93b112bd-c10f-4da1-aac3-174a03960856',
+        resume: 'https://firebasestorage.googleapis.com/v0/b/personal-b6d5b.appspot.com/o/Portfolio%2FIbtesam.pdf?alt=media&token=7ba0d715-c8b8-4c84-b763-19d0e9224a1b',
         image: require('./images/profile.jpg')
     },
     skill: {
